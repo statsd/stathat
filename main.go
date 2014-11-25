@@ -1,8 +1,8 @@
 package main
 
-import "github.com/visionmedia/docopt"
 import "github.com/segmentio/go-log"
 import "github.com/stathat/go"
+import "github.com/tj/docopt"
 import "strconv"
 import "strings"
 import "bufio"
